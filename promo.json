@@ -1,5 +1,17 @@
 {
   "apps": [
+     {
+      "name": "Worm Clash",
+
+      "packageName": "com.worm.snake.clah.mm",
+
+      "targetAsin": "B0GYPZJ4R2",
+
+      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
+
+      "rewardedVideoURL": "https://files.catbox.moe/zms12c.mp4"
+    },
+    
     {
       "name": "AirPlane Simulator",
 
