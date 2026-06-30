@@ -1,11 +1,11 @@
 {
   "apps": [
     {
-      "name": "Bike Wheelie",
-      "packageName": "com.bike.wheeling.racing.master.dts",
-      "targetAsin": "B0GMJNQHKY",
-      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
-      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
+      "name": "Pet Doctor Game",
+      "packageName": "com.pet.doc.simulator.fyr",
+      "targetAsin": "B0GK6KHC8W",
+      "storeUrl": "https://www.amazon.com/FYR-Games-Pet-Doctor-Hospital/dp/B0GK6KHC8W",
+      "rewardedVideoURL": "https://files.catbox.moe/dt7fdj.mp4"
     },
 
     {
